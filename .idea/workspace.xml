@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8591136d-8fc5-4116-9d72-a130480b1478" name="Changes" comment="Done">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PhoneNumberValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PhoneNumberValidatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,32 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInterpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumberInterpreter" />
-      <module name="naturalnumbersinterpretation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Thirt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Thirt" />
-      <module name="naturalnumbersinterpretation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PhoneNumberValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="validation-checker" />
       <option name="PACKAGE_NAME" value="" />
@@ -116,13 +88,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PhoneNumberValidatorTest.testInvalidPhoneNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="validation-checker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberValidatorTest" />
+      <option name="METHOD_NAME" value="testInvalidPhoneNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberValidatorTest.testValidPhoneNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="validation-checker" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhoneNumberValidatorTest" />
+      <option name="METHOD_NAME" value="testValidPhoneNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PhoneNumberValidatorTest" />
+        <item itemvalue="JUnit.PhoneNumberValidatorTest.testInvalidPhoneNumber" />
+        <item itemvalue="JUnit.PhoneNumberValidatorTest.testValidPhoneNumber" />
         <item itemvalue="Application.Interpretation" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Thirt" />
-        <item itemvalue="Application.NumberInterpreter" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +129,7 @@
       <workItem from="1698762972508" duration="7657000" />
       <workItem from="1698925172123" duration="10513000" />
       <workItem from="1699117615449" duration="11124000" />
-      <workItem from="1699350270788" duration="2721000" />
+      <workItem from="1699350270788" duration="4072000" />
     </task>
     <task id="LOCAL-00001" summary="Done">
       <created>1699359637254</created>
@@ -146,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699359637254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done">
+      <created>1699359681470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699359681470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
